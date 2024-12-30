@@ -1,0 +1,31 @@
+#inline css
+<h1 style ="color:rgb(16, 238, 153); background-color :black">Fruits</h1>
+<h1 style="color:black; background-color:red ;">APPLE</h1>
+<h1 style="color:black; background-color: orange;">orange</h1>
+<h1 style="color:black; background-color: yellow;">Mango</h1>
+<link rel="stylesheet"  href="style.css">
+#internal css 
+<style>
+h2{
+    color:blue;
+}
+h4{
+    color:blueviolet;
+}
+</style>
+<h2>vidya</h2>
+<h4>sri</h4>
+#using div tag
+<style>
+    div{
+        background-color:red;
+        width: 300px;
+        height: 100px;
+    }
+</style>
+<div>
+    <h1 style="color: aliceblue;"> EMC</h1>
+    <p style="color:blue">welcome bro!!!</p>
+</div>
+#external css
+<h3>VIDYA</h3>
